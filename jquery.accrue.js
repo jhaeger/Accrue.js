@@ -132,10 +132,10 @@
         mode: "basic",
         operation: "keyup",
         default_values: {
-            amount: "$7,500",
-            rate: "7%",
-            rate_compare: "1.49%",
-            term: "36m",
+            amount: "$250,000",
+            rate: "5%",
+            rate_compare: "4%",
+            term: "30y",
         },
         field_titles: {
             amount: "Loan Amount",
